@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(169, 174, 191);
+}
+
+h1 {
+    font-family: cursive;
+    color: green;
+    text-align: center;
+}
+
+ol {
+    color: blue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 600;
+}
+
+.customstyle {
+    text-decoration: underline;
+    text-align: left;
+
+}
+
